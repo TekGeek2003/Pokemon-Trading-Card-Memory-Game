@@ -1,2 +1,4 @@
 # Pokemon-Trading-Card-Memory-Game
-This is my first game written in Java. It's a memory game with Pokémon Trading cards
+Get ready to catch em all. This is a Pokémon Trading Card Memory game that I made with the Java Programming language.
+
+Flip over two cards and hope that you get a match. Match all the cards!
